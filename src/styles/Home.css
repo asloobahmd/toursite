@@ -17,7 +17,6 @@
     position: absolute;
     width: 700px;
     height: 500px;
-    background-color: red;
 }
 
 .homeContainer h4{
@@ -71,11 +70,80 @@
     }
 }
 
-@media (max-width: 395px) {
+@media (max-width: 480px) {
+
+    .homeContainer{
+        margin: 90px 58px;
+        width: 300px;
+    }
+    .homeContainer h4{
+        color: white;
+        font-size: 12px;
+    }
+    .homeContainer h1{
+        color: white;
+        font-size: 40px;
+        margin-top: 18px;
+        margin-bottom: 25px;
+    }
+    .homeContainer button{
+        padding: 10px 20px;
+        margin-top: 20px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 394px) {
 
     .homeContainer{
         margin: 90px 46px;
         width: 300px;
+    }
+    .homeContainer h4{
+        color: white;
+        font-size: 12px;
+    }
+    .homeContainer h1{
+        color: white;
+        font-size: 40px;
+        margin-top: 18px;
+        margin-bottom: 25px;
+    }
+    .homeContainer button{
+        padding: 10px 20px;
+        margin-top: 20px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 376px) {
+
+    .homeContainer{
+        margin: 90px 36px;
+        width: 300px;
+    }
+    .homeContainer h4{
+        color: white;
+        font-size: 12px;
+    }
+    .homeContainer h1{
+        color: white;
+        font-size: 40px;
+        margin-top: 18px;
+        margin-bottom: 25px;
+    }
+    .homeContainer button{
+        padding: 10px 20px;
+        margin-top: 20px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 321px) {
+
+    .homeContainer{
+        margin: 90px 24px;
+        width: 270px;
     }
     .homeContainer h4{
         color: white;
