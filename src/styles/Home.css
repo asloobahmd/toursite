@@ -17,6 +17,7 @@
     position: absolute;
     width: 700px;
     height: 500px;
+    background-color: red;
 }
 
 .homeContainer h4{
