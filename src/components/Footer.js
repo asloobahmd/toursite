@@ -1,7 +1,5 @@
 import React from 'react'
 
-import {Container} from 'bootstrap';
-
 function Footer() {
   return (
     <div className='bg-dark text-light py-2'>
