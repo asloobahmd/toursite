@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/Home.css';
-
-import homeBanner from '../assets/homeBanner.jpg'
+import Explore from './Explore';
+import { Link } from 'react-router-dom';
 
 // import { Button } from 'react-bootstrap'
 
@@ -20,7 +20,10 @@ function Home() {
             book your trip today with us. Crazy Adventures
           </p>
 
+          <Link to='/explore'>
           <button>DISCOVER NOW</button>
+          </Link>
+
 
       </div>
     </div>
