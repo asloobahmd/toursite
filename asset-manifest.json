@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/toursite/static/css/main.3d343d13.css",
+    "main.js": "/toursite/static/js/main.488551c3.js",
+    "static/js/787.501b92cb.chunk.js": "/toursite/static/js/787.501b92cb.chunk.js",
+    "static/media/homeBanner.jpg": "/toursite/static/media/homeBanner.5a5d7133618228ec76d4.jpg",
+    "index.html": "/toursite/index.html",
+    "main.3d343d13.css.map": "/toursite/static/css/main.3d343d13.css.map",
+    "main.488551c3.js.map": "/toursite/static/js/main.488551c3.js.map",
+    "787.501b92cb.chunk.js.map": "/toursite/static/js/787.501b92cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d343d13.css",
+    "static/js/main.488551c3.js"
+  ]
+}
